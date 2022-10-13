@@ -1,2 +1,2 @@
 # Animals
-All animals (except insect of course) are cute
+All animals (except insects of course) are cute
